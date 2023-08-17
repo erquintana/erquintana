@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Esteban Rodríguez Quintana! 👋
 
 Welcome to my GitHub profile! I'm an electrical engineer working in the semiconductor industry. This is my personal repo and it's focused on develop projects to build more skill. Feel free to explore and get in touch!
 
@@ -25,9 +25,6 @@ Short description of the project. Highlight its unique aspects and technologies.
 
 - 💼 LinkedIn: https://www.linkedin.com/in/esteban-rodriguez-quintana/
 - 🌐 Personal web page: https://erquintana.github.io/www.esteban-rodriguez-quintana.com/
-
-Feel free to reach out if you have any questions, suggestions, or just want to connect!
-
 <!--
 ## Contributions
 
@@ -42,4 +39,3 @@ I enjoy contributing to open source projects. Here are a few projects I've contr
 - 🎮 Currently Playing: [Game Name]
 - 📚 Reading: [Book Title]
 -->
-Thanks for stopping by, and I hope you find something interesting in my repositories! 😄
