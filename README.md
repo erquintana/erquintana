@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm an electrical engineer working in the semicond
 🌍 San José, Costa Rica  💼 Electrical Engineer 🌱 Currently Learning: Hardware Verification & SystemVerilog
 </div>
 
-## Relevant Recent Projects
-### Hardwware verification / SystemVerilog / UVM
+## Relevant Projects
+### Hardwware verification / SystemVerilog / UVM:
 <div align="center">
   <a href="https://github.com/erquintana/ALU_Verification_with_UVM">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=ALU_Verification_with_UVM&theme=yeblu" alt="ALU Verification with UVM">
@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm an electrical engineer working in the semicond
   </a>
 </div>
 
-### C++
+### C++:
 <div align="center">
   <a href="https://github.com/erquintana/ALU_Verification_with_UVM">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=ALU_Verification_with_UVM&theme=yeblu" alt="ALU Verification with UVM">
@@ -36,6 +36,18 @@ Welcome to my GitHub profile! I'm an electrical engineer working in the semicond
   </a>
 </div>
 
+### Python:
+<div align="center">
+  <a href="https://github.com/erquintana/ALU_Verification_with_UVM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=ALU_Verification_with_UVM&theme=yeblu" alt="ALU Verification with UVM">
+  </a>
+  <a href="https://github.com/erquintana/veriRISC-CPU-SV">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=veriRISC-CPU-SV&theme=yeblu" alt="veriRISC-CPU-SV">
+  </a>
+  <a href="https://github.com/erquintana/veriRISC-CPU-SV">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=veriRISC-CPU-SV&theme=yeblu" alt="veriRISC-CPU-SV">
+  </a>
+</div>
 <!--
 <div align="center">
   <p>
