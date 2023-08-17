@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm an electrical engineer working in the semicond
 
 ## Relevant Projects
 <div align="center">
-  <h3>Hardware verification / SystemVerilog / UVM:</h3>
+  <h4>Hardware verification / SystemVerilog / UVM:</h4>
 </div>
 <div align="center">
   <a href="https://github.com/erquintana/ALU_Verification_with_UVM">
@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm an electrical engineer working in the semicond
 </div>
 
 <div align="center">
-  <h3>C++:</h3>
+  <h4>C++:</h4>
 </div>
 
 <div align="center">
@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm an electrical engineer working in the semicond
 </div>
 
 <div align="center">
-  <h3>Python:</h3>
+  <h4>Python:</h4>
 </div>
 
 <div align="center">
