@@ -10,33 +10,33 @@ Welcome to my GitHub profile! I'm an electrical engineer working in the semicond
 ### Hardware verification / SystemVerilog / UVM:
 <div align="center">
   <a href="https://github.com/erquintana/ALU_Verification_with_UVM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=ALU_Verification_with_UVM&theme=yeblu" alt="ALU Verification with UVM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=ALU_Verification_with_UVM&theme=solarized-light" alt="ALU Verification with UVM">
   </a>
   <a href="https://github.com/erquintana/universal-register-SV">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=Universal-Register-SV&theme=yeblu" alt="Universal Register File">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=Universal-Register-SV&theme=solarized-light" alt="Universal Register File">
   </a>
   <a href="https://github.com/erquintana/veriRISC-CPU-SV">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=veriRISC-CPU-SV&theme=yeblu" alt="Verifying the VeriRISC CPU">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=veriRISC-CPU-SV&theme=solarized-light" alt="Verifying the VeriRISC CPU">
   </a>
 </div>
 
 ### C++:
 <div align="center">
   <a href="https://github.com/erquintana/autonomous_nav_nodes_F1_ROS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=autonomous_nav_nodes_F1_ROS&theme=yeblu" alt="autonomous_nav_nodes_F1_ROS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=autonomous_nav_nodes_F1_ROS&theme=solarized-light" alt="autonomous_nav_nodes_F1_ROS">
   </a>
   <a href="https://github.com/erquintana/python-pro-bootcamp-2023">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=python-pro-bootcamp-2023&theme=yeblu" alt="python-pro-bootcamp-2023">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=python-pro-bootcamp-2023&theme=solarized-light" alt="python-pro-bootcamp-2023">
   </a>
 </div>
 
 ### Python:
 <div align="center">
   <a href="https://github.com/erquintana/autonomous_nav_nodes_F1_ROS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=autonomous_nav_nodes_F1_ROS&theme=yeblu" alt="autonomous_nav_nodes_F1_ROS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=autonomous_nav_nodes_F1_ROS&theme=solarized-light" alt="autonomous_nav_nodes_F1_ROS">
   </a>
   <a href="https://github.com/erquintana/python-pro-bootcamp-2023">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=python-pro-bootcamp-2023&theme=yeblu" alt="python-pro-bootcamp-2023">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=python-pro-bootcamp-2023&theme=solarized-light" alt="python-pro-bootcamp-2023">
   </a>
 </div>
 <!--
