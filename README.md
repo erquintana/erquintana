@@ -22,11 +22,11 @@ Welcome to my GitHub profile! I'm an electrical engineer working in the semicond
 
 ### C++:
 <div align="center">
-  <a href="">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=repo1&theme=yeblu" alt="repo1">
+  <a href="https://github.com/erquintana/autonomous_nav_nodes_F1_ROS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=autonomous_nav_nodes_F1_ROS&theme=yeblu" alt="autonomous_nav_nodes_F1_ROS">
   </a>
-  <a href="">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=repo1&theme=yeblu" alt="repo2">
+  <a href="https://github.com/erquintana/python-pro-bootcamp-2023">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=python-pro-bootcamp-2023&theme=yeblu" alt="python-pro-bootcamp-2023">
   </a>
 </div>
 
@@ -35,8 +35,8 @@ Welcome to my GitHub profile! I'm an electrical engineer working in the semicond
   <a href="https://github.com/erquintana/autonomous_nav_nodes_F1_ROS">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=autonomous_nav_nodes_F1_ROS&theme=yeblu" alt="autonomous_nav_nodes_F1_ROS">
   </a>
-  <a href="">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=repo1&theme=yeblu" alt="repo2">
+  <a href="https://github.com/erquintana/python-pro-bootcamp-2023">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=python-pro-bootcamp-2023&theme=yeblu" alt="python-pro-bootcamp-2023">
   </a>
 </div>
 <!--
