@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm an electrical engineer working in the semicond
 - 🌱 Currently Learning: System verilog and verification
 - 💼 LinkedIn: https://www.linkedin.com/in/esteban-rodriguez-quintana/
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=ALU_Verification_with_UVM)](https://github.com/erquintana/ALU_Verification_with_UVM)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=ALU_Verification_with_UVM&theme=yeblu)](https://github.com/erquintana/ALU_Verification_with_UVM)
 
 <!--
 ## Relevant Projects
