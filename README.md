@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm an electrical engineer working in the semicond
 
 
 
-## Relevant Projects:
+## Relevant recent projects:
 
 Here are some of the projects I've been working on and I want you to check:
 
