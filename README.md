@@ -1,11 +1,9 @@
 # Hello, I'm Esteban Rodríguez Quintana! 👋
 
-Welcome to my GitHub profile! I'm an electrical engineer working in the semiconductor industry. This is my personal repo and it's focused on developing projects to build valuable skillset and enjoy designing/developing software. Feel free to explore and get in touch!
-
-## About Me
+Welcome to my GitHub profile! I'm an electrical engineer working in the semiconductor industry. This is my personal repo and it's focused on developing projects to build valuable skillset and enjoy designing/developing software. Feel free to explore and get in touch! 💼 LinkedIn: https://www.linkedin.com/in/esteban-rodriguez-quintana/
 
 <div align="center">
-🌍 Location: San José, Costa Rica  💼 Profession: Electrical Engineer 🌱 Currently Learning: System verilog and verification 💼 LinkedIn: https://www.linkedin.com/in/esteban-rodriguez-quintana/
+🌍 San José, Costa Rica  💼 Electrical Engineer 🌱 Currently Learning: Hardware Verification & SystemVerilog
 </div>
 
 ## Relevant Recent Projects
