@@ -22,11 +22,11 @@ Welcome to my GitHub profile! I'm an electrical engineer working in the semicond
 
 ### C++:
 <div align="center">
-  <a href="https://github.com/erquintana/autonomous_nav_nodes_F1_ROS">
+  <a href="https://github.com/erquintana/logiGate_gui">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=autonomous_nav_nodes_F1_ROS&theme=solarized-light" alt="autonomous_nav_nodes_F1_ROS">
   </a>
   <a href="https://github.com/erquintana/python-pro-bootcamp-2023">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=python-pro-bootcamp-2023&theme=solarized-light" alt="python-pro-bootcamp-2023">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=logiGate_gui&theme=solarized-light" alt="logiGate_gui">
   </a>
 </div>
 
