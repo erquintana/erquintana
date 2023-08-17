@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm an electrical engineer working in the semicond
 ### C++:
 <div align="center">
   <a href="https://github.com/erquintana/logiGate_gui">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=autonomous_nav_nodes_F1_ROS&theme=solarized-light" alt="autonomous_nav_nodes_F1_ROS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=logiGate_gui&theme=solarized-light" alt="logiGate_gui">
   </a>
   <a href="https://github.com/erquintana/bike_computer_project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=bike_computer_project&theme=solarized-light" alt="bike_computer_project">
