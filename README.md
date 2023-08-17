@@ -26,6 +26,7 @@ Welcome to my GitHub profile! I'm an electrical engineer working in the semicond
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=veriRISC-CPU-SV&theme=yeblu" alt="veriRISC-CPU-SV">
   </a>
 </div>
+
 ### C++
 <div align="center">
   <a href="https://github.com/erquintana/ALU_Verification_with_UVM">
