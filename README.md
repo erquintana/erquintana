@@ -1,4 +1,5 @@
-# Hello, I'm Esteban Rodríguez Quintana! 👋
+# Hello, I'm (Esteban Rodríguez Quintana)[https://www.linkedin.com/in/esteban-rodriguez-quintana/
+]! 👋
 
 Welcome to my GitHub profile! I'm an electrical engineer working in the semiconductor industry. This is my personal repo and it's focused on developing projects to build valuable skillset and enjoy designing/developing software. Feel free to explore and get in touch! LinkedIn: https://www.linkedin.com/in/esteban-rodriguez-quintana/
 
@@ -47,16 +48,14 @@ Welcome to my GitHub profile! I'm an electrical engineer working in the semicond
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=python-pro-bootcamp-2023&theme=solarized-light" alt="python-pro-bootcamp-2023">
   </a>
 </div>
+
 <!--
 <div align="center">
   <p>
     <a href="https://github.com/erquintana/ALU_Verification_with_UVM">ALU Verification with UVM</a>
-    |
     <a href="https://github.com/erquintana/veriRISC-CPU-SV">veriRISC-CPU-SV</a>
   </p>
 </div>
-
-
 
 ## Contributions
 
