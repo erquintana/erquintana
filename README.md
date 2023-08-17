@@ -19,7 +19,13 @@ Welcome to my GitHub profile! I'm an electrical engineer working in the semicond
   <a href="https://github.com/erquintana/veriRISC-CPU-SV">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=veriRISC-CPU-SV&theme=yeblu" alt="veriRISC-CPU-SV">
   </a>
-    <a href="https://github.com/erquintana/veriRISC-CPU-SV">
+  <a href="https://github.com/erquintana/veriRISC-CPU-SV">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=veriRISC-CPU-SV&theme=yeblu" alt="veriRISC-CPU-SV">
+  </a>
+  <a href="https://github.com/erquintana/veriRISC-CPU-SV">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=veriRISC-CPU-SV&theme=yeblu" alt="veriRISC-CPU-SV">
+  </a>
+  <a href="https://github.com/erquintana/veriRISC-CPU-SV">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=veriRISC-CPU-SV&theme=yeblu" alt="veriRISC-CPU-SV">
   </a>
 </div>
