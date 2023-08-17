@@ -36,6 +36,7 @@ Welcome to my GitHub profile! I'm an electrical engineer working in the semicond
   </a>
 </div>
 
+<!--
 <div align="center">
   <p>
     <a href="https://github.com/erquintana/ALU_Verification_with_UVM">ALU Verification with UVM</a>
@@ -45,7 +46,7 @@ Welcome to my GitHub profile! I'm an electrical engineer working in the semicond
 </div>
 
 
-<!--
+
 ## Contributions
 
 I enjoy contributing to open source projects. Here are a few projects I've contributed to:
