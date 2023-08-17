@@ -17,11 +17,11 @@ Here are some of the projects I've been working on and I want you to check:
 
 ### Simple UVM Testbench, from Spec to Testbench: ALU Verification with UVM
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=ALU_Verification_with_UVM&theme=yeblu)](https://github.com/erquintana/ALU_Verification_with_UVM)
+- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=ALU_Verification_with_UVM&theme=yeblu)](https://github.com/erquintana/ALU_Verification_with_UVM)
 
 ### veriRISC-CPU-SV
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=veriRISC-CPU-SV&theme=yeblu)](https://github.com/erquintana/veriRISC-CPU-SV)
+- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=veriRISC-CPU-SV&theme=yeblu)](https://github.com/erquintana/veriRISC-CPU-SV)
 
 <!--
 ## Contributions
