@@ -4,11 +4,9 @@ Welcome to my GitHub profile! I'm an electrical engineer working in the semicond
 
 ## About Me
 
-- 🌍 Location: San José, Costa Rica
-- 💼 Profession: Electrical Engineer
-- 🌱 Currently Learning: System verilog and verification
-- 💼 LinkedIn: https://www.linkedin.com/in/esteban-rodriguez-quintana/
-
+<div align="center">
+🌍 Location: San José, Costa Rica  💼 Profession: Electrical Engineer 🌱 Currently Learning: System verilog and verification 💼 LinkedIn: https://www.linkedin.com/in/esteban-rodriguez-quintana/
+</div>
 
 ## Relevant Recent Projects
 ### Hardwware verification / SystemVerilog / UVM
