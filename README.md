@@ -1,6 +1,6 @@
 # Hello, I'm Esteban Rodríguez Quintana! 👋
 
-Welcome to my GitHub profile! I'm an electrical engineer working in the semiconductor industry. This is my personal repo and it's focused on develop projects to build more skill. Feel free to explore and get in touch!
+Welcome to my GitHub profile! I'm an electrical engineer working in the semiconductor industry. This is my personal repo and it's focused on developing projects to build valuable skillset and enjoy designing/developing software. Feel free to explore and get in touch!
 
 ## About Me
 
