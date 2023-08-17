@@ -29,10 +29,10 @@ Here are some of the projects I've been working on and I want you to check:
 
 <div align="center">
   <a href="#project1">
-    <img src="project1-thumbnail.png" alt="Project 1">
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=ALU_Verification_with_UVM&theme=yeblu)](https://github.com/erquintana/ALU_Verification_with_UVM)
   </a>
   <a href="#project2">
-    <img src="project2-thumbnail.png" alt="Project 2">
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=veriRISC-CPU-SV&theme=yeblu)](https://github.com/erquintana/veriRISC-CPU-SV)
   </a>
   <a href="#project3">
     <img src="project3-thumbnail.png" alt="Project 3">
