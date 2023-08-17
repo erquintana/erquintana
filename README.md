@@ -7,10 +7,9 @@ Welcome to my GitHub profile! I'm an electrical engineer working in the semicond
 </div>
 
 ## Relevant Projects
-<center>
+<div align="center">
   <h3>Hardware verification / SystemVerilog / UVM:</h3>
-</center>
-
+</div>
 <div align="center">
   <a href="https://github.com/erquintana/ALU_Verification_with_UVM">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=ALU_Verification_with_UVM&theme=solarized-light" alt="ALU Verification with UVM">
@@ -23,9 +22,9 @@ Welcome to my GitHub profile! I'm an electrical engineer working in the semicond
   </a>
 </div>
 
-<center>
+<div align="center">
   <h3>C++:</h3>
-</center>
+</div>
 
 <div align="center">
   <a href="https://github.com/erquintana/logiGate_gui">
@@ -36,9 +35,9 @@ Welcome to my GitHub profile! I'm an electrical engineer working in the semicond
   </a>
 </div>
 
-<center>
+<div align="center">
   <h3>Python:</h3>
-</center>
+</div>
 
 <div align="center">
   <a href="https://github.com/erquintana/autonomous_nav_nodes_F1_ROS">
