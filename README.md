@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm an electrical engineer working in the semicond
 - 🌱 Currently Learning: System verilog and verification
 - 💼 LinkedIn: https://www.linkedin.com/in/esteban-rodriguez-quintana/
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=erquintana&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erquintana&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact&exclude_lang=cmake,makefile)
 
 <!--
 ## Relevant Projects
