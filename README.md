@@ -32,14 +32,11 @@ Welcome to my GitHub profile! I'm an electrical engineer working in the semicond
 
 ### Python:
 <div align="center">
-  <a href="https://github.com/erquintana/ALU_Verification_with_UVM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=ALU_Verification_with_UVM&theme=yeblu" alt="ALU Verification with UVM">
+  <a href="https://github.com/erquintana/autonomous_nav_nodes_F1_ROS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=autonomous_nav_nodes_F1_ROS&theme=yeblu" alt="autonomous_nav_nodes_F1_ROS">
   </a>
-  <a href="https://github.com/erquintana/veriRISC-CPU-SV">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=veriRISC-CPU-SV&theme=yeblu" alt="veriRISC-CPU-SV">
-  </a>
-  <a href="https://github.com/erquintana/veriRISC-CPU-SV">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=veriRISC-CPU-SV&theme=yeblu" alt="veriRISC-CPU-SV">
+  <a href="">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=repo1&theme=yeblu" alt="repo2">
   </a>
 </div>
 <!--
