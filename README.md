@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm an electrical engineer working in the semicond
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=ALU_Verification_with_UVM&theme=yeblu" alt="ALU Verification with UVM">
   </a>
   <a href="https://github.com/erquintana/veriRISC-CPU-SV">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=veriRISC-CPU-SV&theme=yeblu" alt="Verifying the VeriRISC CPU">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=veriRISC-CPU-SV&theme=yeblu" alt="Universal Register File">
   </a>
   <a href="https://github.com/erquintana/veriRISC-CPU-SV">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=veriRISC-CPU-SV&theme=yeblu" alt="Verifying the VeriRISC CPU">
