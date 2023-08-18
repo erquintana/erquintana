@@ -12,13 +12,13 @@ Welcome to my GitHub profile! I'm an electrical engineer working in the semicond
 </div>
 <div align="center">
   <a href="https://github.com/erquintana/ALU_Verification_with_UVM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=ALU_Verification_with_UVM&theme=solarized-light" alt="ALU Verification with UVM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=ALU_Verification_with_UVM&theme=calm_pink" alt="ALU Verification with UVM">
   </a>
   <a href="https://github.com/erquintana/universal-register-SV">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=Universal-Register-SV&theme=solarized-light" alt="Universal Register File">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=Universal-Register-SV&theme=calm_pink" alt="Universal Register File">
   </a>
   <a href="https://github.com/erquintana/veriRISC-CPU-SV">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=veriRISC-CPU-SV&theme=solarized-light" alt="Verifying the VeriRISC CPU">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=veriRISC-CPU-SV&theme=calm_pink" alt="Verifying the VeriRISC CPU">
   </a>
 </div>
 
@@ -28,10 +28,10 @@ Welcome to my GitHub profile! I'm an electrical engineer working in the semicond
 
 <div align="center">
   <a href="https://github.com/erquintana/logiGate_gui">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=logiGate_gui&theme=solarized-light" alt="logiGate_gui">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=logiGate_gui&theme=calm_pink" alt="logiGate_gui">
   </a>
   <a href="https://github.com/erquintana/bike_computer_project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=bike_computer_project&theme=solarized-light" alt="bike_computer_project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=bike_computer_project&theme=calm_pink" alt="bike_computer_project">
   </a>
 </div>
 
@@ -41,10 +41,10 @@ Welcome to my GitHub profile! I'm an electrical engineer working in the semicond
 
 <div align="center">
   <a href="https://github.com/erquintana/autonomous_nav_nodes_F1_ROS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=autonomous_nav_nodes_F1_ROS&theme=solarized-light" alt="autonomous_nav_nodes_F1_ROS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=autonomous_nav_nodes_F1_ROS&theme=calm_pink" alt="autonomous_nav_nodes_F1_ROS">
   </a>
   <a href="https://github.com/erquintana/python-pro-bootcamp-2023">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=python-pro-bootcamp-2023&theme=solarized-light" alt="python-pro-bootcamp-2023">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erquintana&repo=python-pro-bootcamp-2023&theme=calm_pink" alt="python-pro-bootcamp-2023">
   </a>
 </div>
 
